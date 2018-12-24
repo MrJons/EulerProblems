@@ -1,0 +1,14 @@
+{
+    "name": "jons/euler-projects",
+    "description": "Euler projects repository",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mrjons",
+            "email": "shad_stick@hotmail.co.uk"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7.5"
+    }
+}
